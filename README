@@ -2,16 +2,22 @@
 ==StaCC Model==
 ===============
 
-Authors: 	David Bell, 	Research Forester, 
-				US Forest Service PNW Research Station, 
+Authors: 	David Bell 	Research Forester
+				PNW Research Station
+				USDA Forest Service
 				Corvallis, OR
-	 	Eric Ward
+	 	Eric Ward	Research Associate
+	 			Department of Forestry and Environmental Resources
+	 			North Carolina State University
+	 			Raleigh, NC
 
 Collaborators:	James Clark	Professor
 				Nicholas School of the Environment
 				Duke University
+				Durham, NC
 		Ram Oren	Professor
 				Nicholas School of the Environment
 				Duke University
+				Durham, NC
 
 Description: StaCC Model is a hierarchical Bayesian modeling framework for relating stem sap flux measurements to unobserved canopy transpiration and conductance (Ward et al. 2013a, 2013b; Bell et al. in prep). The model is implemented in R.
