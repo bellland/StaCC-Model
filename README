@@ -21,3 +21,8 @@ Collaborators:	James Clark	Professor
 				Durham, NC
 
 Description: StaCC Model is a hierarchical Bayesian modeling framework for relating stem sap flux measurements to unobserved canopy transpiration and conductance (Ward et al. 2013a, 2013b; Bell et al. in prep). The model is implemented in R.
+
+Update Notes:
+20150112 — 	New code tested and uploaded; 
+	 —	Example data currently unavailable (please contact D. Bell if needed);
+	 —	Documentation incomplete;
