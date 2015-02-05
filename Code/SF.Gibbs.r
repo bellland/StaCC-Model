@@ -163,7 +163,6 @@ loop.conv()
                                               '_rand_',RAND,
                                               '_bstat_',BS,
                                               '_DEF_',DEF,
-                                              '_REW_',RELM,
                                               '.RData',sep=''))
 
 }

@@ -112,12 +112,12 @@ rownames(priormat) <- priorlist
 
 #hydraulic lags
   #mean
-    priormat['prior.beta',]   <-  .63
+    priormat['prior.beta',]   <-  TC
   #standard deviation
     priormat['prior.sdbeta',] <-   .01 
   #range of reasonable values
-    priormat['lobeta',]       <-  .63
-    priormat['hibeta',]       <-  .63
+    priormat['lobeta',]       <-  TC
+    priormat['hibeta',]       <-  TC
 
 priormat
 
